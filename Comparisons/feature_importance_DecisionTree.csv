@@ -1,0 +1,451 @@
+feature,importance
+pick,0.196204569836033
+gbpm,0.0991845465642687
+dbpm,0.06349125658758549
+stl_per,0.04710433304758199
+Min_per,0.04276673667323411
+fta,0.039715177972505476
+pid,0.033757813157967
+midmade+midmiss,0.03369524888740525
+standing_reach_plus_max_vert_in,0.032975488798139635
+dunksmiss+dunksmade,0.030019729375191456
+position_PG,0.026528655564980054
+mpg,0.024430726170810997
+num,0.02393674299096626
+bpm,0.023304731788952458
+ftr,0.02017927407473916
+shuttle_run_sec,0.01964964403940982
+height_w_shoes_in,0.015839771624474416
+twopm,0.015439843728695965
+fga,0.015258933814313203
+pts_pg,0.015006522525582147
+Rec Rank,0.014617932241398537
+fg3a,0.013338439659857837
+blk_per,0.01252080649824484
+ft_pct,0.01164023129311465
+porpag,0.011540568903289913
+twopa,0.009733009108793274
+dunksmade/(dunksmade+dunksmiss),0.007843322421884418
+obpm,0.007464033699506342
+oreb,0.006896623469293109
+midmade/(midmade+midmiss),0.00609989413626545
+position_SG,0.00576594414832613
+ht_11-Jun,0.005487598312472002
+player_RODNEY HOOD,0.00520583031892269
+vert_max_in,0.005061278141457668
+school_Ohio St.,0.004360473566289316
+three_quarter_sprint_sec,0.004311407895643835
+orb_pct,0.00400525435744136
+fgm,0.003733388888892756
+bmi,0.003686435153094149
+trb_pg,0.003326496862243148
+standing_reach_in,0.003307317411947597
+drb_pct,0.003088146913959925
+dporpag,0.003043193626100265
+blk_pg,0.00241748844087206
+midmade,0.002224978771975383
+hand_width_in,0.002118191493635923
+gp,0.001845371940070242
+player_WAYNE ELLINGTON,0.001805013477918524
+ast_pg,0.0017452649617915152
+body_fat_pct,0.001724362611723761
+lane_agility_sec,0.0015377245105122155
+ogbpm,0.0011481826680627633
+minutes,0.0008452773835677406
+pan,0.0007884704523962675
+adrtg,0.000783663979985723
+ht_7-Jun,0.0007776036452071179
+rimmade+rimmiss,0.0007767677369617593
+position_PG-SG,0.0007041133786395684
+Unnamed: 64_PF/C,0.0005851357717225596
+vert_no_step_in,0.0005100433476848795
+efg_pct_given,0.000416073329107023
+fg3m,0.0002698938747070716
+ortg,0.00026148603093958223
+draft_year,0.00021503739610803587
+player_RAY MCCALLUM,0.0002106488778201451
+fg3_pct,0.00019992138867190568
+dunksmade,0.00018870628638055254
+conf_WCC,0.00016481324236844802
+player_CHANDLER PARSONS,0.0001462839429306399
+rimmade,0.00013409361435309943
+ts_pct_given,9.362172347570135e-05
+wingspan_in,9.362172347562028e-05
+ht_6-Jun,6.83354990547433e-05
+rimmade/(rimmade+rimmiss),6.43649348894914e-05
+ftm,5.900119031537767e-05
+ht_10-Jun,5.900119031536935e-05
+weight_lbs,5.900119031536311e-05
+ast_pct,5.2662219455040435e-05
+position_PF,5.2662219455038355e-05
+Unnamed: 65,3.510814630333395e-05
+pfr,3.1207241158547024e-05
+hand_length_in,3.120724115853247e-05
+ast/tov,2.9256788586147316e-05
+Unnamed: 64_Wing F,2.389304401200889e-05
+stops,2.3405430868906628e-05
+usg,2.3405430868904547e-05
+twop_pct,1.51160074361463e-05
+dreb,1.3165554863769982e-05
+stl_pg,1.3165554863759589e-05
+dgbpm,1.2190328577568572e-05
+adjoe,1.1702715434450195e-05
+standing_reach_plus_vert_in,7.801810289638315e-06
+bench_reps,5.851357717247965e-06
+yr_Sr,5.851357717231334e-06
+school_Arizona St.,1.950452572396586e-06
+yr_Jr,1.4628394293114716e-06
+school_Gonzaga,0.0
+school_Indiana,0.0
+school_Illinois,0.0
+school_Hofstra,0.0
+school_Connecticut,0.0
+school_Georgia Tech,0.0
+school_Davidson,0.0
+school_Georgetown,0.0
+school_Fresno St.,0.0
+school_Kansas,0.0
+school_Florida St.,0.0
+school_Florida,0.0
+school_Duke,0.0
+school_Colorado,0.0
+school_Detroit,0.0
+school_Georgia,0.0
+school_Louisville,0.0
+school_Kentucky,0.0
+school_LSU,0.0
+school_Notre Dame,0.0
+school_North Carolina St.,0.0
+school_North Carolina,0.0
+school_Norfolk St.,0.0
+school_New Mexico St.,0.0
+school_New Mexico,0.0
+school_Nevada,0.0
+school_Murray St.,0.0
+school_Morehead St.,0.0
+school_Missouri,0.0
+school_Mississippi St.,0.0
+school_Michigan St.,0.0
+school_Michigan,0.0
+school_Memphis,0.0
+school_Maryland,0.0
+school_Marquette,0.0
+school_Cleveland St.,0.0
+school_Louisiana Lafayette,0.0
+school_Lehigh,0.0
+school_College of Charleston,0.0
+school_Arkansas,0.0
+school_Clemson,0.0
+school_California,0.0
+player_TRISTAN THOMPSON,0.0
+player_TREY LYLES,0.0
+player_TREY BURKE,0.0
+player_TREVOR BOOKER,0.0
+player_TONY WROTEN,0.0
+player_TONY SNELL,0.0
+player_TONEY DOUGLAS,0.0
+player_TOBIAS HARRIS,0.0
+player_TJ WARREN,0.0
+player_TIM HARDAWAY,0.0
+player_THOMAS ROBINSON,0.0
+player_TERRENCE WILLIAMS,0.0
+player_TERRENCE ROSS,0.0
+school_Oklahoma St.,0.0
+player_TAUREAN PRINCE,0.0
+player_TAJ GIBSON,0.0
+player_STEVEN ADAMS,0.0
+player_TY LAWSON,0.0
+player_TYLER ENNIS,0.0
+player_TYLER ZELLER,0.0
+player_ZACH LAVINE,0.0
+school_Butler,0.0
+school_Bowling Green,0.0
+school_Boston College,0.0
+school_Baylor,0.0
+player_STANLEY JOHNSON,0.0
+school_BYU,0.0
+school_Arizona,0.0
+player_XAVIER HENRY,0.0
+player_TYREKE EVANS,0.0
+player_WILLIE CAULEY-STEIN,0.0
+player_STEPHEN CURRY,0.0
+player_WILL BARTON,0.0
+player_WADE BALDWIN,0.0
+player_VICTOR OLADIPO,0.0
+player_SPENCER DINWIDDIE,0.0
+player_TYUS JONES,0.0
+school_Oklahoma,0.0
+conf_MEAC,0.0
+school_Pittsburgh,0.0
+conf_WAC,0.0
+ht_3-Jun,0.0
+ht_3-Jul,0.0
+ht_2-Jun,0.0
+ht_11-May,0.0
+ht_1-Jun,0.0
+ht_1-Jul,0.0
+yr_So,0.0
+yr_Fr,0.0
+conf_Sum,0.0
+ht_5-Jun,0.0
+conf_SEC,0.0
+conf_SC,0.0
+conf_SB,0.0
+conf_Pat,0.0
+conf_P12,0.0
+conf_P10,0.0
+conf_OVC,0.0
+conf_MWC,0.0
+ht_4-Jun,0.0
+ht_8-Jun,0.0
+player_SHELVIN MACK,0.0
+Unnamed: 64_Wing G,0.0
+position_SG-PG,0.0
+position_SF-SG,0.0
+position_SF-PF,0.0
+position_SF,0.0
+position_PF-SF,0.0
+position_PF-C,0.0
+position_C-PF,0.0
+position_C,0.0
+Unnamed: 64_Stretch 4,0.0
+ht_9-Jun,0.0
+Unnamed: 64_Scoring PG,0.0
+Unnamed: 64_Pure PG,0.0
+Unnamed: 64_Combo G,0.0
+Unnamed: 64_C,0.0
+type_all,0.0
+ht_Jun-00,0.0
+ht_Jul-00,0.0
+ht_9-May,0.0
+conf_MVC,0.0
+conf_MAC,0.0
+school_Providence,0.0
+school_Tennessee Martin,0.0
+school_VCU,0.0
+school_Utah,0.0
+school_UTEP,0.0
+school_USC,0.0
+school_UNLV,0.0
+school_UCLA,0.0
+school_UC Santa Barbara,0.0
+school_Texas,0.0
+school_Tennessee,0.0
+school_Villanova,0.0
+school_Temple,0.0
+school_Syracuse,0.0
+school_Stanford,0.0
+school_St. Bonaventure,0.0
+school_South Dakota St.,0.0
+school_Seton Hall,0.0
+school_San Diego St.,0.0
+school_Purdue,0.0
+school_Vanderbilt,0.0
+school_Virginia,0.0
+conf_Horz,0.0
+conf_ACC,0.0
+conf_CUSA,0.0
+conf_CAA,0.0
+conf_BW,0.0
+conf_BSky,0.0
+conf_BE,0.0
+conf_B12,0.0
+conf_B10,0.0
+conf_Amer,0.0
+conf_A10,0.0
+school_Wake Forest,0.0
+school_Xavier,0.0
+school_Wyoming,0.0
+school_Wisconsin,0.0
+school_Wichita St.,0.0
+school_Western Kentucky,0.0
+school_Weber St.,0.0
+school_Washington St.,0.0
+school_Washington,0.0
+player_SOLOMON HILL,0.0
+player_MARCUS SMART,0.0
+player_SHABAZZ NAPIER,0.0
+player_DERRICK FAVORS,0.0
+player_EKPE UDOH,0.0
+player_ED DAVIS,0.0
+player_EARL CLARK,0.0
+player_DRAYMOND GREEN,0.0
+player_DORON LAMB,0.0
+player_DOMANTAS SABONIS,0.0
+player_DION WAITERS,0.0
+player_DEVIN BOOKER,0.0
+player_DERRICK WILLIAMS,0.0
+player_DERRICK CARACTER,0.0
+player_JAMES HARDEN,0.0
+player_DERRICK BROWN,0.0
+player_DENZEL VALENTINE,0.0
+player_DEMARRE CARROLL,0.0
+player_DEMARCUS COUSINS,0.0
+player_DEMAR DEROZAN,0.0
+player_DEJUAN BLAIR,0.0
+player_DARRUN HILLIARD,0.0
+player_DARREN COLLISON,0.0
+player_DARIUS MILLER,0.0
+player_ELFRID PAYTON,0.0
+player_ERIC BLEDSOE,0.0
+player_ERIC MAYNOR,0.0
+player_ETWAUN MOORE,0.0
+player_JAKOB POELTL,0.0
+player_JAJUAN JOHNSON,0.0
+player_JAHLIL OKAFOR,0.0
+player_JAE CROWDER,0.0
+player_JABARI PARKER,0.0
+player_ISAIAH WHITEHEAD,0.0
+player_ISAIAH THOMAS,0.0
+player_IMAN SHUMPERT,0.0
+player_HASHEEM THABEET,0.0
+player_HARRISON BARNES,0.0
+player_GREIVIS VASQUEZ,0.0
+player_GREG MONROE,0.0
+player_GORGUI DIENG,0.0
+player_GORDON HAYWARD,0.0
+player_GERALD HENDERSON,0.0
+player_GARY HARRIS,0.0
+player_FRANK KAMINSKY,0.0
+player_FESTUS EZELI,0.0
+player_EVAN TURNER,0.0
+player_DANTE CUNNINGHAM,0.0
+player_DANGELO RUSSELL,0.0
+player_DAMIAN LILLARD,0.0
+player_ARNETT MOULTRIE,0.0
+player_ARCHIE GOODWIN,0.0
+player_ANTHONY DAVIS,0.0
+player_ANTHONY BROWN,0.0
+player_ANTHONY BENNETT,0.0
+player_ANDREW WIGGINS,0.0
+player_ANDREW NICHOLSON,0.0
+player_ANDREW GOUDELOCK,0.0
+player_ANDRE ROBERSON,0.0
+player_ANDRE DRUMMOND,0.0
+player_ALEX LEN,0.0
+player_ALEC BURKS,0.0
+player_AL-FAROUQ AMINU,0.0
+player_AJ PRICE,0.0
+player_ADREIAN PAYNE,0.0
+player_AARON GORDON,0.0
+ts_pct,0.0
+efg_pct,0.0
+drtg,0.0
+tov_pct,0.0
+player_ARMON JOHNSON,0.0
+player_AUSTIN DAYE,0.0
+player_DAJUAN SUMMERS,0.0
+player_AUSTIN RIVERS,0.0
+player_CORY JOSEPH,0.0
+player_CORY JEFFERSON,0.0
+player_COLE ALDRICH,0.0
+player_CODY ZELLER,0.0
+player_CLEANTHONY EARLY,0.0
+player_CJ MCCOLLUM,0.0
+player_CHRIS SINGLETON,0.0
+player_CHRIS MCCULLOUGH,0.0
+player_CHASE BUDINGER,0.0
+player_CHARLES JENKINS,0.0
+player_CARIS LEVERT,0.0
+player_CAMERON PAYNE,0.0
+player_BUDDY HIELD,0.0
+player_BRANDON KNIGHT,0.0
+player_BRANDON INGRAM,0.0
+player_BRADLEY BEAL,0.0
+player_BOBBY PORTIS,0.0
+player_BERNARD JAMES,0.0
+player_BEN MCLEMORE,0.0
+player_JAMAL MURRAY,0.0
+player_JAMES JOHNSON,0.0
+player_SHABAZZ MUHAMMAD,0.0
+player_MARQUESE CHRISS,0.0
+player_MYLES TURNER,0.0
+player_MITCH MCGARY,0.0
+player_MIKE SCOTT,0.0
+player_MICHAEL KIDD-GILCHRIST,0.0
+player_MICHAEL CARTER-WILLIAMS,0.0
+player_MEYERS LEONARD,0.0
+player_MASON PLUMLEE,0.0
+player_MARSHON BROOKS,0.0
+player_MARQUIS TEAGUE,0.0
+player_MARKIEFF MORRIS,0.0
+player_JAMES YOUNG,0.0
+player_MARKEL BROWN,0.0
+player_MALCOLM LEE,0.0
+player_MALCOLM BROGDON,0.0
+player_LUKE HARANGODY,0.0
+player_LESTER HUDSON,0.0
+player_LAZAR HAYWARD,0.0
+player_LAVOY ALLEN,0.0
+player_LARRY SANDERS,0.0
+player_LARRY NANCE,0.0
+player_NATE WOLTERS,0.0
+player_NIK STAUSKAS,0.0
+player_NIKOLA VUCEVIC,0.0
+player_NOAH VONLEH,0.0
+player_SAM YOUNG,0.0
+player_RYAN KELLY,0.0
+player_RONDAE HOLLIS-JEFFERSON,0.0
+player_RICHAUN HOLMES,0.0
+player_REGGIE JACKSON,0.0
+player_REGGIE BULLOCK,0.0
+player_RASHAD VAUGHN,0.0
+player_QUINCY PONDEXTER,0.0
+player_PEYTON SIVA,0.0
+player_PERRY JONES,0.0
+player_PAUL GEORGE,0.0
+player_PATRICK PATTERSON,0.0
+player_PATRICK MCCAW,0.0
+player_PASCAL SIAKAM,0.0
+player_OTTO PORTER,0.0
+player_ORLANDO JOHNSON,0.0
+player_NORRIS COLE,0.0
+player_NORMAN POWELL,0.0
+player_NOLAN SMITH,0.0
+player_LANDRY FIELDS,0.0
+player_KYRIE IRVING,0.0
+player_KYLE OQUINN,0.0
+player_JORDAN CLARKSON,0.0
+player_JON LEUER,0.0
+player_JON BROCKMAN,0.0
+player_JOHNNY OBRYANT,0.0
+player_JOHN WALL,0.0
+player_JOHN JENKINS,0.0
+player_JOHN HENSON,0.0
+player_JODIE MEEKS,0.0
+player_JIMMY BUTLER,0.0
+player_JIMMER FREDETTE,0.0
+player_JERIAN GRANT,0.0
+player_JEREMY LAMB,0.0
+player_JEREMY EVANS,0.0
+player_JERAMI GRANT,0.0
+player_JEFF WITHEY,0.0
+player_JEFF TEAGUE,0.0
+player_JEFF AYRES,0.0
+player_JAYLEN BROWN,0.0
+player_JARELL MARTIN,0.0
+player_JARED SULLINGER,0.0
+player_JONNY FLYNN,0.0
+player_JORDAN CRAWFORD,0.0
+player_KYLE ANDERSON,0.0
+player_JORDAN HAMILTON,0.0
+player_KRIS DUNN,0.0
+player_KLAY THOMPSON,0.0
+player_KJ MCDANIELS,0.0
+player_KIM ENGLISH,0.0
+player_KENTAVIOUS CALDWELL-POPE,0.0
+player_KENNETH FARIED,0.0
+player_KENDALL MARSHALL,0.0
+player_KEMBA WALKER,0.0
+player_KELLY OUBRE,0.0
+player_KELLY OLYNYK,0.0
+player_KAWHI LEONARD,0.0
+player_KARL-ANTHONY TOWNS,0.0
+player_JUSTISE WINSLOW,0.0
+player_JUSTIN ANDERSON,0.0
+player_JRUE HOLIDAY,0.0
+player_JOSH RICHARDSON,0.0
+player_JOSH HARRELLSON,0.0
+player_JORDAN WILLIAMS,0.0
+player_JORDAN HILL,0.0
+position_SG-SF,0.0
